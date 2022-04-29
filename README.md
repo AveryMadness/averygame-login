@@ -1,11 +1,9 @@
-# Avery Game Login System
+# Avery Game Login
 
-this is the source for the login system, database, and profile system for Avery Game. 
+A login system for the game Avery Game, made in php, html, and sql.
 
-# Notes
-this will **NOT** work if you do not have a database set up with sql. It uses sql and will terminate the program if the database has any error.
+## Developers
+- AveryMadness#9112
 
+###### Copyright (C) 2022 Avery Fiebig-Dorey
 
-
-
-##### Copyright (C) 2022  Avery Fiebig-Dorey
