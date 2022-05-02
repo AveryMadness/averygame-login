@@ -1,6 +1,7 @@
-// Copyright (C) 2022 Avery Fiebig-Dorey
 
 <?php
+// Copyright (C) 2022 Avery Fiebig-Dorey
+
 session_start();
 // const testing = true;
 if (!isset($_SESSION['loggedin']) /*&& !testing */) {
