@@ -1,7 +1,8 @@
-// Copyright (C) 2022 Avery Fiebig-Dorey
 
 
 <?php
+// Copyright (C) 2022 Avery Fiebig-Dorey
+
 $DATABASE_HOST = 'localhost';
 $DATABASE_USER = 'root';
 $DATABASE_PASS = '';
